@@ -1,0 +1,15 @@
+.main {
+    display: flex;
+}
+
+.img {
+    width: 50%;
+}
+
+img {
+    width: 500px;
+}
+
+.footer {
+    display: flex;
+}
